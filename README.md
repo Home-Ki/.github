@@ -1,0 +1,2 @@
+# .github
+HomeKi organization profile
